@@ -1,4 +1,6 @@
 # 🤖 AI IN EVERYDAY LIFE
+![AI in Everyday Life]
+(ai-screenshot.png)
 
 A simple desktop AI application built using Python, Tkinter, Ollama and Llama 3.
 
